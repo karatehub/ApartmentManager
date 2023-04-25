@@ -60,5 +60,5 @@ public class Resident {
         private int room_number;
 
         /** 削除フラグ */
-        private Integer deleteFlag;
+        private Integer delete_Flag;
 }
